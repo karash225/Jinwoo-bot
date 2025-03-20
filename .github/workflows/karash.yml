@@ -1,0 +1,3 @@
+git clone https://github.com/<your gitHub Username>/Jinwoo-bot.git
+cd Jinwoo-bot 
+npm start
